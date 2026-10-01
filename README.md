@@ -38,5 +38,3 @@ Mi objetivo es continuar desarrollando soluciones que permitan automatizar tarea
 ## Contacto
 
 GitHub: [dexter-pro](https://github.com/dexter-pro)
-
-Correo: TU_CORREO_AQUI
